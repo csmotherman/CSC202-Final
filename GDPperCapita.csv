@@ -1,0 +1,191 @@
+Rank,Country,GDP per capita
+1,Monaco,$234.3K
+2,Luxembourg,$133.6K
+3,Bermuda,$114.1K
+4,Ireland,$100.2K
+5,Switzerland,$92K
+6,Norway,$89.2K
+7,Cayman Islands,$86.6K
+8,Singapore,$72.8K
+9,United States of America,$70.2K
+10,Faroe Islands,$69K
+11,Iceland,$68.7K
+12,Denmark,$68K
+13,Qatar,$66.8K
+14,Sweden,$61K
+15,Australia,$60.4K
+16,Netherlands,$57.8K
+17,Finland,$53.7K
+18,Austria,$53.6K
+19,Israel,$52.2K
+20,Canada,$52K
+21,Belgium,$51.2K
+22,Germany,$51.2K
+23,Hong Kong,$49.8K
+24,New Zealand,$48.8K
+25,United Kingdom,$46.5K
+26,United Arab Emirates,$44.3K
+27,Macau,$43.9K
+28,France,$43.7K
+29,Andorra,$42.1K
+30,Japan,$39.3K
+31,New Caledonia,$37.2K
+32,Guam,$35.9K
+33,Italy,$35.7K
+34,South Korea,$35K
+35,Malta,$33.5K
+36,Puerto Rico,$32.6K
+37,Cyprus,$31.6K
+38,Brunei,$31.4K
+39,Spain,$30.1K
+40,Aruba,$29.3K
+41,Slovenia,$29.3K
+42,Estonia,$27.9K
+43,The Bahamas,$27.5K
+44,Czech Republic,$26.8K
+45,Bahrain,$26.6K
+46,Portugal,$24.6K
+47,Lithuania,$23.7K
+48,Saudi Arabia,$23.2K
+49,Slovakia,$21.4K
+50,Latvia,$21.1K
+51,Turks and Caicos Islands,$20.9K
+52,Greece,$20.2K
+53,Oman,$19.5K
+54,Hungary,$18.7K
+55,Poland,$18K
+56,Curaçao,$17.7K
+57,Croatia,$17.7K
+58,Uruguay,$17.3K
+59,Barbados,$17.2K
+60,Chile,$16.3K
+61,Trinidad and Tobago,$16K
+62,Antigua and Barbuda,$15.8K
+63,Romania,$14.9K
+64,Seychelles,$14.7K
+65,Panama,$14.6K
+66,People's Republic of China,$12.6K
+67,Costa Rica,$12.5K
+68,Bulgaria,$12.2K
+69,Russia,$12.2K
+70,Palau,$12.1K
+71,Malaysia,$11.1K
+72,Nauru,$10.6K
+73,Argentina,$10.6K
+74,Kazakhstan,$10.4K
+75,Maldives,$10.4K
+76,Mexico,$10K
+77,Guyana,$10K
+78,Turkey,$9.7K
+79,Montenegro,$9.5K
+80,Serbia,$9.2K
+81,Mauritius,$9.1K
+82,Grenada,$9K
+83,Gabon,$8.6K
+84,Dominican Republic,$8.5K
+85,Dominica,$7.7K
+86,Brazil,$7.5K
+87,Equatorial Guinea,$7.5K
+88,Belarus,$7.3K
+89,Bosnia and Herzegovina,$7.1K
+90,Thailand,$7.1K
+91,South Africa,$7.1K
+92,Botswana,$6.8K
+93,Republic of Macedonia,$6.7K
+94,Peru,$6.6K
+95,Albania,$6.5K
+96,Libya,$6.4K
+97,Belize,$6.2K
+98,Marshall Islands,$6.2K
+99,Colombia,$6.1K
+100,Ecuador,$6K
+101,Paraguay,$5.9K
+102,Tuvalu,$5.6K
+103,Azerbaijan,$5.4K
+104,Kosovo,$5.3K
+105,Moldova,$5.2K
+106,Jamaica,$5.2K
+107,Guatemala,$5K
+108,Georgia,$5K
+109,Armenia,$5K
+110,Suriname,$4.9K
+111,Namibia,$4.9K
+112,Ukraine,$4.8K
+113,Iraq,$4.8K
+114,Fiji,$4.6K
+115,Mongolia,$4.6K
+116,El Salvador,$4.6K
+117,Tonga,$4.4K
+118,Indonesia,$4.3K
+119,Lebanon,$4.1K
+120,Jordan,$4.1K
+121,Iran,$4.1K
+122,Sri Lanka,$4K
+123,Eswatini,$4K
+124,Samoa,$3.9K
+125,Tunisia,$3.8K
+126,Morocco,$3.8K
+127,Vietnam,$3.8K
+128,Egypt,$3.7K
+129,Algeria,$3.7K
+130,Federated States of Micronesia,$3.6K
+131,Philippines,$3.5K
+132,Bolivia,$3.3K
+133,Bhutan,$3.3K
+134,Djibouti,$3.2K
+135,Vanuatu,$3K
+136,Honduras,$2.8K
+137,East Timor,$2.7K
+138,Papua New Guinea,$2.7K
+139,Ivory Coast,$2.5K
+140,Laos,$2.5K
+141,Bangladesh,$2.5K
+142,Ghana,$2.4K
+143,São Tomé and Príncipe,$2.4K
+144,Solomon Islands,$2.3K
+145,Republic of the Congo,$2.3K
+146,India,$2.3K
+147,Mauritania,$2.2K
+148,Kenya,$2.1K
+149,Nigeria,$2.1K
+150,Nicaragua,$2K
+151,Uzbekistan,$2K
+152,Angola,$2K
+153,Haiti,$1.8K
+154,Zimbabwe,$1.8K
+155,Cameroon,$1.7K
+156,Senegal,$1.6K
+157,Cambodia,$1.6K
+158,Kiribati,$1.6K
+159,Comoros,$1.6K
+160,Pakistan,$1.5K
+161,Benin,$1.3K
+162,Kyrgyzstan,$1.3K
+163,Myanmar,$1.2K
+164,Nepal,$1.2K
+165,Guinea,$1.2K
+166,Zambia,$1.1K
+167,Tanzania,$1.1K
+168,Lesotho,$1.1K
+169,Togo,$973.21
+170,Ethiopia,$925.08
+171,Tajikistan,$897.05
+172,Burkina Faso,$893.08
+173,Uganda,$883.89
+174,Mali,$873.79
+175,Rwanda,$822.35
+176,Guinea-Bissau,$795.12
+177,The Gambia,$772.15
+178,Sudan,$751.82
+179,Chad,$685.69
+180,Liberia,$675.66
+181,Malawi,$634.84
+182,Niger,$590.63
+183,Democratic Republic of the Congo,$577.21
+184,Madagascar,$500.51
+185,Mozambique,$491.84
+186,Sierra Leone,$480.04
+187,Central African Republic,$461.14
+188,Somalia,$446.98
+189,Afghanistan,$368.75
+190,Burundi,$221.48
